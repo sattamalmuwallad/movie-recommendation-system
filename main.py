@@ -6,6 +6,6 @@ data = {
 }
 movies = pd.DataFrame(data)
 movies.index = range(1,len(movies)+1) 
-#print(movies)
-import sys
-print(sys.executable)
+print(movies)
+print(movies[movies["Rating"] == movies["Rating"].max()])
+print(movies[movies["Genre"] == "Sci-Fi"])
