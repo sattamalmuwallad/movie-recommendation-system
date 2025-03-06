@@ -69,4 +69,6 @@ The system is designed to incorporate advanced techniques like text embeddings f
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/movie-recommendation-system.git
+
+   .
    
