@@ -65,7 +65,7 @@ The system is designed to incorporate advanced techniques like text embeddings f
 - Python 3.7 or higher
 - A terminal or command prompt with Git installed.
 
-### Installation Steps delayed until further notice some good news might be a graduation project so thats good.
+### Installation Steps delayed until further notice some good news might be a graduation project so thats good...
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/movie-recommendation-system.git
